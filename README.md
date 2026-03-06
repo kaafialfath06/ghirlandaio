@@ -37,12 +37,12 @@ report : [telegram](https://t.me/yuroshub)
 
 ## praktek
 
-| no       | tipe        | jumlah  | jenis    | 
-| ---------| ------------ | ------- | -------- |
-| 1        | makalah      | 1       | kelompok |
-| 2        | source code  | 1       | kelompol |
-| 3        | source code  | 9       | pribadi  |
-| 3        | source docs  | 9       | pribadi  |
+| no       | tipe         | jumlah  | jenis    | 
+| ---------| ------------- | ------- | -------- |
+| 1        | makalah       | 1       | kelompok |
+| 2        | source code   | 1       | kelompol |
+| 3        | source code   | 9       | pribadi  |
+| 3        | documentation | 9       | pribadi  |
 
 
 # kriteria penilaian
