@@ -100,3 +100,6 @@
 #### Oleh karena itu, konflik yang terjadi antara sains dan agama lebih sering muncul karena adanya perbedaan dalam hal memahami dan menjelaskan dunia. Sains menjawab bagaimana sesuatu itu bisa terjadi. Sedangkan agama lebih banyak menjawab pertanyaan tentang mengapa manusia itu hidup dan apa makna dari kehidupannya sendiri. Dengan begitu, keduanya dapat saling melengkapi selama keduanya dijalankan sesuai dengan perannya masing masing. 
 ---
 ## Daftar Pustaka
+
+#### file:///C:/Users/nuriz/Downloads/Homo%20Deus_kintilkibink_unlocked%20(2).pdf (*Homo Deus : A Brief History of Tomorrow*)
+#### file:///C:/Users/nuriz/Downloads/the-innovators-how-a-group-of-hackers-geniuses-and-geeks-created-the-digital-revolution-1nbsped-147670869x-9781476708690-1476708703-9781476708706-1476708711-9781476708713_compress.pdf (*The Innovators*)
