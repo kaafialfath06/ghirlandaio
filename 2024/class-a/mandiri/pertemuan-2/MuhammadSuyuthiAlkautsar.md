@@ -98,23 +98,27 @@ Ketegangan meningkat ketika metode ilmiah berkembang pada masa Revolusi Ilmiah. 
 4. Hubungan dalam kehidupan modern  
 Dalam masyarakat modern, sains telah memberikan kemampuan besar kepada manusia untuk mengendalikan alam dan mengembangkan teknologi. Namun, kemampuan tersebut juga menimbulkan pertanyaan etis mengenai bagaimana teknologi harus digunakan.
 
-Oleh karena itu, agama tetap memiliki peran penting sebagai **sumber nilai moral dan etika** yang dapat membimbing manusia dalam menggunakan pengetahuan ilmiah secara bertanggung jawab.
+**Pertanyaan Pak Al Muhdil**: nabi sulaiman bisa memindahkan istana dengan bantuan jin ifrit, dan hari ini manusia juga bisa memindahkan gedung dengan alat, yang awalnya memindahkan gedung itu mukjizat menjadi hal yang biasa, cuman yang harus diperhatikan adalah mulai ada potensi untuk hal tersebut bisa dilakukan oleh manusia, dan tidak menjadi mukjizat lagi, bagaimana pendapat kalian terkait fenomena tersebut, apakah kalian akan ada di pihak agama atau sains di mana mukjizat sudah bukan mukjizat
 
+**Jawaban Saya**:Mu'jizat berasal dari kata a'jaza yang berarti melemahkan atau menjadikan tidak mampu. Pelakunya (yang melemahkan) dinamai mu'jiz dan apabila kemampuannya melemahkan pihak lain amat menonjol sehingga mampu membungkam lawan, ia dinamai mu'jizat. Menurut Ustad Quraish Shihab Mu'jizat hanya diberikan kepada nabi. Sedangkan peristiwa yang terjadi pada zaman Nabi Sulaiman khususnya peristiwa pemindahan/teleportasi jarak jauh sebuah istana ratu bilqis dilakukan oleh ashif bin barkhoya seorang alim yang diberikan ilmu pengetahuan *dilakukan secepat kedipan mata*.
 
-**sesi tanya jawab**
+**Jadi menurut saya** Peristiwa ini sedari awal bukanlah mukjizat melainkan karamah karena bukan dilakukan secara langsung oleh nabi, selain itu manusia memiliki keterbatasan dan tidak akan mampu meniru mukjizat maupun melewati batasan yang ditetapkan oleh tuhan.
 
-**Pertanyaan**: Mengapa manusia modern mulai berusaha mengalahkan kematian
+**Pertanyaan presentator**: Mengapa agama dan sains sering memiliki peran berbeda dalam perkembangan peradaban manusia?
 
-**Jawaban**: Manusia modern mulai mengatasi kematian karena telah sukses mengatasi ancaman seperti, wabah, kelaparan, perang. Dari mulai situlah kemajuan ilmu medis manusia itu melonjak jauh sehingga menciptakan teknologi mengalahkan kematian
+**Jawaban Saya**: agama dan sains sering memiliki peran berbeda dalam perkembangan peradaban manusia karena keduanya memiliki fungsi, fokus, dan cara memahami realitas yang berbeda.
+1. Agama membentuk kepercayaan dan struktur sosial masyarakat
+Agama berperan melalui cerita, nilai, dan kepercayaan yang membentuk identitas serta moral masyarakat.
 
-**Pertanyaan**: Bagaimana hubungan kemajuan teknologi dan perubahan nilai dalam kemanusiaan
+2. Agama berfungsi memperkuat kerja sama sosial
+Agama mendorong solidaritas dan kerja sama antaranggota masyarakat melalui ajaran moral, ritual, dan nilai kebersamaan.
 
-**Jawaban**: dalam dunia kerja manusia mulai digantikan oleh mesin, hal ini menimbulkan pertanyaan apakah manusia masih dibutuhkan?. contohnya lagi, sekarang teknologi itu bisa mengatur kehidupan jadi kehidupan manusia itu semakin dipertanyakan
+3. Sains dan agama memiliki fokus yang berbeda
+Agama lebih fokus pada makna hidup, nilai moral, dan tujuan keberadaan manusia.
+Sains fokus pada penjelasan empiris tentang bagaimana alam semesta bekerja melalui metode ilmiah.
 
-**Pertanyaan**: Mengapa harari menyebut manusia berusaha menjadi seperti dewa
-
-**Jawaban**: Manusia zaman dulu lebih memercayai adanya tuhan. zaman dulu itu ada banyak masalah seperti kelaparan, banjir, dll. Seiring berkembangnya waktu manusia bisa mengatasi semua masalah itu dan meningkatkan kemampuan manusia bahkan mencapai keabadian.
-
+4. Namun pada dasarnya sains dan agama dapat saling melengkapi
+Sains membantu menjelaskan bagaimana dunia bekerja, sedangkan agama membantu menjawab mengapa manusia hidup dan bagaimana seharusnya manusia bertindak.
 **Dokumentasi**
 
 
