@@ -85,3 +85,7 @@ Posisi teknologi dalam kehidupan manusia saat ini telah mengalami perubahan yang
 Melalui pengalaman sehari-hari, terlihat bahwa teknologi tidak hanya sekadar mendukung, tetapi juga membentuk perspektif kita tentang dunia. Terkadang, kita lebih mempercayai aplikasi peta dibandingkan ingatan kita sendiri, atau lebih meyakini konten di media sosial daripada kenyataan yang sesungguhnya. Ini menunjukkan bahwa garis pemisah antara realitas yang sesungguhnya dan hasil yang diciptakan oleh teknologi semakin samar.
 
 Secara keseluruhan, teknologi saat ini memiliki dua sisi. Di satu sisi, tetap dapat menjadi alat yang mempermudah kehidupan manusia. Namun di sisi lain, jika terlalu diyakini tanpa disadari, teknologi dapat berfungsi seperti sebuah mitos yang terletak pada posisi kendali manusia. Oleh karena itu, penting bagi manusia untuk bersikap kritis agar manusia tetap memiliki kendali, bukannya sepenuhnya dikendalikan oleh teknologi.
+
+### DAFTAR PUSTAKA
+
+Harari, Yuval Noah (2018). Homo Deus : Masa Depan Umat Manusia.  
