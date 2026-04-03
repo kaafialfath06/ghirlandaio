@@ -1,4 +1,5 @@
 Nama: Rizkyna Amor Zevia
+
 NIM: 12402051030042
 
 # Apa perbedaan teknologi sebagai mitos dan teknologi sebagai alat?
@@ -7,7 +8,8 @@ Selama ini, manusia menganggap teknologi yang ada sebagai sebuah alat, padahal k
 sesuatu menggunakan teknologi yang mereka juga tidak tahu bagaimana cara tekonologi itu bekerja, padahal pada kenyataannya jika 
 manusia menggunakan teknologi tapi tidak tahu bagaimana hal itu bekerja, manusia bukan menggunakan teknologi sebagai alat, tapi 
 sebagai mitos. Teknologi bisa dikatakan alat ketika manusia mengetahui bagaimana teknologi itu bekerja
-Metode yang saya gunakan adalah Literasi dari buku Homodeus dan juga PPT dari pemateri
+Metode yang saya gunakan adalah Literasi dari buku Homodeus dan juga PPT dari pemateri.
+
 Dalam buku homodeus halaman 11-13 menjelaskan bagaimana manusia meelihat teknologi sebagai alat, mengapa dikatakan mereka melihat
 teknologi sebagai alat? dikarenakan mereka menggunakan teknologi itu untuk mengatasi hal yang sudah mereka teliti kemudian mereka 
 tau bagaimana hal itu berjalan. Hal ini merupakan titik dimana manusia memahami "bagaimana dunia ini bekerja" kemudian mereka 
@@ -20,20 +22,6 @@ serupa dengan fungsi keberadaan agama yang memberikan makna kepada kita. Inti ke
 teknologi sebagai alat dan teknologi sebagai mitos yaitu teknologi sebagai alat ketika manusia benar-benar memahami teknologi 
 hingga ke dasar-dasarnya, sedangkan manusia memahami teknologi sebagai mitos ketika manusia mengimajinasikan sesuatu yang
 berkaitan dengan teknologi.
-Referensi: [Yuval Noah Harari. (2018). Homo Deus: Masa Depan Umat Manusia.] (https://archive.org/details/HomoDeusKintilkibinkUnlocked)
 
+Referensi: Yuval Noah Harari. (2018). Homo Deus: Masa Depan Umat Manusia. (https://archive.org/details/HomoDeusKintilkibinkUnlocked)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-0
