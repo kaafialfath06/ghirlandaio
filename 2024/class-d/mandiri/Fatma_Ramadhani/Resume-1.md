@@ -14,7 +14,7 @@ Resume ini dibuat sebagai bentuk refleksi dan untuk memahami kembali materi yang
 # Pembahasan
 Pembahasan ini dibuat berdasarkan pertanyaan yang saya dapat dari presentator saat diskusi kelompok 1 dengan topik “Hubungan Sains dan Agama”. Pertanyaannya adalah, *“Bagaimana sains memengaruhi kehidupan sosial manusia?”*. Dari pertanyaan ini, saya mencoba menyusun jawaban sekaligus menganalisisnya lebih dalam lewat resume ini.
 
-Menurut saya, sains memang punya pengaruh yang besar dalam kehidupan sosial manusia, jadi saya setuju dengan pernyataan tersebut. Hal ini didukung oleh artikel ilmiah yang saya baca mengenai pengaruh perkembangan sains terhadap kehidupan manusia, di dalam artikel tersebut menejalaskan bahwa sains memberikan banyak dampak positif, seperti mempermudah aktivitas manusia, meningkatkan kesejahteraan, serta membantu pemecahan berbagai masalah dalam kehidupan sehari-hari .
+Menurut saya, sains memang punya pengaruh yang besar dalam kehidupan sosial manusia, jadi saya setuju dengan pernyataan tersebut. Hal ini didukung oleh artikel ilmiah yang saya baca mengenai pengaruh perkembangan sains terhadap kehidupan manusia [^1], di dalam artikel tersebut menejalaskan bahwa sains memberikan banyak dampak positif, seperti mempermudah aktivitas manusia, meningkatkan kesejahteraan, serta membantu pemecahan berbagai masalah dalam kehidupan sehari-hari .
 
 Selain itu, perkembangan sains juga melahirkan teknologi yang mengubah cara manusia hidup dan berinteraksi, misalnya dalam bidang transportasi, komunikasi, dan kesehatan. Ini menunjukkan kalau sains tidak hanya berdampak pada individu, tapi juga pada kehidupan sosial masyarakat secara luas.
 
@@ -30,5 +30,4 @@ Dari pertanyaan saat presentasi, terlihat juga bahwa sains bukan cuma teori, tap
 Jadi, saya setuju bahwa sains sangat memengaruhi kehidupan sosial manusia. Tapi, pengaruh tersebut tetap perlu diimbangi dengan nilai-nilai agama, supaya manfaatnya tetap positif dan tidak menimbulkan dampak negatif.
 
 # Referensi
-1. Pengaruh Perkembangan Sains Terhadap Kehidupan Manusia. Diakses dari:
-https://www.scribd.com/doc/108945788/Pengaruh-Perkembangan-Sains-Terhadap-Kehidupan-Manusia
+[^1]: Pengaruh Perkembangan Sains Terhadap Kehidupan Manusia. Diakses dari: https://www.scribd.com/doc/108945788/Pengaruh-Perkembangan-Sains-Terhadap-Kehidupan-Manusia
