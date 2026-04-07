@@ -1,4 +1,4 @@
-## Rumusan Masalah
+## 1.2 Rumusan Masalah
 1. Bagaimana pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang.
 2. Bagiamana pola hubungan antara swasta dan teknologi pada rentang tahun 1960-sekarang.
 3. Bagaimana implementasi dan kontribusi hacking culture dalam pengembangan teknologi modern
