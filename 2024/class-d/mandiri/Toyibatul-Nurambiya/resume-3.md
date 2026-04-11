@@ -18,4 +18,4 @@ Perlindungan terhadap kode sumber sebagai kekayaan intelektual sangat penting ka
 Secara umum, kebijakan yang melindungi sumber terbatas sebagai aset intelektual merupakan cara untuk menjaga keseimbangan dalam sistem industri. Di satu sisi, hal ini berperan sebagai pelindung hukum yang mencegah orang lain mengambil ide atau menyalinnya tanpa izin. Di sisi lain, hal ini berfungsi sebagai penggerak ekonomi yang memastikan bahwa setiap uang dan waktu yang digunakan untuk mengembangkan inovasi bisa memberikan manfaat kembali kepada perusahaan. Tanpa perlindungan yang memadai terhadap kode sumber, antusiasme untuk mengembangkan teknologi baru bisa berkurang karena kurangnya rasa aman hukum yang menghargai kreativitas dan usaha yang dilakukan.
 ## Referensi
 1. Kelompok 3 4D (2026). Evolusi Relasi antara Negara, Sektor Swasta, dan Teknologi (1960–Sekarang): Peran Budaya Hacking serta Paradigma Open dan Closed Source.
-2. Go Lightnode. (2024). Open Source vs Closed Source: Mendalami Perbedaan dan Aplikasi Nyata.
+2. Go Lightnode. (2024). Open Source vs Closed Source: Mendalami Perbedaan dan Aplikasi Nyata. https://go.lightnode.com/id/tech/open-source-vs-closed-source 
