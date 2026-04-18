@@ -35,3 +35,5 @@ Adapun Berbagai cara meningkatkan kesadaran keamanan (security awareness) penggu
    - Meningkatkan kualitas sumber daya manusia (SDM)
    - Mengembangkan infrastruktur teknologi yang aman
    Bahwa peningkatan SDM, teknologi, dan keamanan informasi menjadi faktor penting dalam menghadapi ancaman siber.
+# Kesimpulan
+Kesadaran keamanan pengguna merupakan aspek penting dalam menjaga keamanan sistem digital. Meningkatkan security awareness dapat dilakukan melalui adukasi, pemahaman pentingnya data, pembiasaan peilaku aman, penerapan etika siber, serta dukungan dari organisasi. Dengan meningkatnya kesadaran tersebut, pengguna dapat lebih waspada terhadap ancaman siber sehingga risiko kebocoran data dan serangan dapat diminimalkan, serta kepercayaan sistem digital tetap terjaga.
